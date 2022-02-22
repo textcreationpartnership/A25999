@@ -1,0 +1,261 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The folly of a libeller made manifest being some   brief observations upon a libel, lately published, and abusively entituled, The dangerous imposture of Quakerism : wherein the envious abuses of that author are detected / by Richard Ashby.</title>
+            <author>Ashby, Richard, 1663?-1734.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1699</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 27 KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A25999</idno>
+            <idno type="STC">Wing A3940</idno>
+            <idno type="STC">ESTC R13633</idno>
+            <idno type="EEBO-CITATION">12937002</idno>
+            <idno type="OCLC">ocm 12937002</idno>
+            <idno type="VID">95778</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A25999)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 95778)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 730:26)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The folly of a libeller made manifest being some   brief observations upon a libel, lately published, and abusively entituled, The dangerous imposture of Quakerism : wherein the envious abuses of that author are detected / by Richard Ashby.</title>
+                  <author>Ashby, Richard, 1663?-1734.</author>
+               </titleStmt>
+               <extent>12 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed and sold by T. Sowle ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1699.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Jeffery, John, 1647-1720. --  Dangerous imposture of Quakerism.</term>
+               <term>Society of Friends --  Controversial literature.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-07</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2010-07</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:95778:1"/>
+            <pb facs="tcp:95778:1"/>
+            <p>THE <hi>Folly of a Libeller</hi> MADE MANIFEST: BEING <hi>Some Brief Obſervations</hi> UPON A LIBEL, Lately Publiſhed, and Abuſively Entituled, <hi>The Dangerous Impoſture of Quakeriſm.</hi>
+            </p>
+            <p>Wherein the Envious Abuſes of that Author are Detected.</p>
+            <p>By <hi>RICHARD ASHBY.</hi>
+            </p>
+            <q>
+               <bibl>
+                  <hi>2 COR. VI.</hi> —</bibl> But in all things approving our ſelves Miniſters of God, in much Patience,—By the Word of Truth, by the Power of God,— by Honour and Diſhonour, by Evil Report and Good Report; as <hi>Deceivers,</hi> and yet <hi>True.</hi>
+            </q>
+            <p>
+               <hi>LONDON,</hi> Printed and Sold by <hi>T. Sowle,</hi> in <hi>White-Hart-Court</hi> in <hi>Gracious-ſtreet,</hi> and at the <hi>Bible</hi> in <hi>Leaden-Hall-ſtreet,</hi> 1699.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:95778:2" rendition="simple:additions"/>
+            <pb n="3" facs="tcp:95778:2" rendition="simple:additions"/>
+            <head>THE LIBELLER's Folly Made Manifeſt, <hi>&amp;c.</hi>
+            </head>
+            <opener>
+               <salute>Friendly Reader,</salute>
+            </opener>
+            <p>I Intreat thy Moderation and Patience, in peruſing theſe brief Obſervations, which were occaſioned by meeting with the aboveſaid Paper, which containeth ſeveral Abuſes, deſign<g ref="char:EOLhyphen"/>ed to Traduce and Un-Chriſtian the People called <hi>Quakers,</hi> by rendering them <hi>Impoſtors.</hi> And this nameleſs Author pretends to draw his Charges out of the <hi>Journal</hi> of our deceaſed Friend <hi>George Fox,</hi> who was a Faithful Servant of Chriſt in his Gene<g ref="char:EOLhyphen"/>ration, and one that ſuffered much for Chriſt's ſake; whom this Author has greatly defamed; but refers not to any Page in his ſaid Book, only citing his <hi>Journal,</hi> being in Folio, of above 600 Pages, wherein he ſhews himſelf very diſingenuous; and his concealing his Name, ſhews that he is aſhamed of his work, and therefore lies <hi>Incognito.</hi> And yet towards the end of his Paper, tells the World, <hi>he never did us</hi> (<hi>i. e.</hi> the Quakers) <hi>any hurt;</hi> and pretends to pity us; which the matter of his Paper plainly ſhews he is far from: However, I think to give a brief touch upon it. He tells us, <hi>he has read over</hi> G. F<hi>'s Journal,</hi> whom he calls <hi>Impoſtor,</hi> but gives no demonſtration to prove it; and muſt be extravagantly conceited with his little Libel, to think his bare <hi>Ipſe dixit</hi> proves it. His Paper being divided into Four Parts, I ſhall take notice of them in order, as they fall.</p>
+            <p>
+               <pb n="4" facs="tcp:95778:3" rendition="simple:additions"/>Dangerous Impoſture. Firſt, <hi>The real Author of this Impoſture was</hi> George Fox; <hi>and 'tis worth our taking notice of, what his true Character was. He was, when he began to publiſh his Doctrine, a young Man who had had a Religious Education, and in the</hi> 19th <hi>&amp;</hi> 20th <hi>Years of his Age was exerciſed with ſtrong Temptations to Deſpair, and was under great Troubles and Diſorders of Mind, on that ac<g ref="char:EOLhyphen"/>count, ſuch as could not be removed by thoſe Miniſters he had re<g ref="char:EOLhyphen"/>courſe unto.</hi>
+            </p>
+            <p>
+               <hi>Anſwer.</hi> It would have been more pertinent for this Author to conſider, that <hi>G. F.</hi> when in Troubles and Diſtreſs of Mind, made his Condition known to the Miniſters (that then were) to obtain comfort; but thoſe Phyſicians of Souls prov'd of <hi>no value</hi> to him: And if this were ſtrictly enquired into, it may juſtly be fear'd, the Number of ſuch at this day are great, and the State of the People to be lamented, who <hi>ſpend their Money for that which is not Bread, and their Labour for that which ſatisfies not.</hi> And it's very obvious, that among theſe Pretenders lies the Impoſture.</p>
+            <p>Dang. Impoſt. <hi>
+                  <g ref="char:V">Ʋ</g>pon this he betook himſelf to Retirement and Solitude night and day—went alone into Solitary Places, with his Bible and his own Thoughts,</hi> &amp;c.</p>
+            <p>
+               <hi>Anſw.</hi> What Offence, or bad Example, could this be? Nay, doth it not ſhew apparently the contrary? See the Prophet's words, <hi>Lament.</hi> 3.26 to 29. I hope this Author doth not reckon it a Crime, that he took his Bible with him, as a Com<g ref="char:EOLhyphen"/>panion in his Solitude; this ſhews the great Eſteem he had of thoſe Holy Writings.</p>
+            <p>Dang. Impoſt. <hi>By degrees, he imagined, God made known his Will to him, and opened to him (as his phraſe is) That the Light of Chriſt within Man was to be his Inſtructor and Guide in matters of Religion; and thorough this Imagination he ſometimes gain'd Com<g ref="char:EOLhyphen"/>fort and Joy, and by degrees arrived at extreme Preſumption and Confidence.</hi>
+            </p>
+            <p>
+               <hi>Anſw.</hi> If this Author means, that whatever <hi>G. F.</hi> knew con<g ref="char:EOLhyphen"/>cerning God, it was but Imagination, and an effect of his own Thoughts; and becauſe <hi>G. F.</hi> ſays, <hi>God opened to him, That the Light of Chriſt in Man, was to be his Guide,</hi> &amp;c. Doth not this Author ſufficiently bewray his own Folly and Igorance? And ſhews that he is little acquainted with Scripture-Teſti<g ref="char:EOLhyphen"/>mony, to term the <hi>Light</hi> (of Chriſt) within Man, an <hi>Imagina<g ref="char:EOLhyphen"/>tion;</hi>
+               <pb n="5" facs="tcp:95778:3"/>and the <hi>Knowledge,</hi> that comes from it, only <hi>Imaginary:</hi> See what the Scripture ſaith, 2 <hi>Cor.</hi> 4.6. <hi>For God, who com<g ref="char:EOLhyphen"/>manded the Light to ſhine out of Darkneſs, he hath ſhined in our Hearts, to give the Light of the Knowledge of the Glory of God, in the Face of Jeſus Chriſt.</hi> If I mention no more, this is ſufficient to ſhew this Author's abuſe. Yet take the words of Chriſt our Lord, <hi>John</hi> 8.12. <hi>I am the Light of the World, he that fol<g ref="char:EOLhyphen"/>lows me ſhall not walk in Darkneſs, but ſhall have the Light of Life.</hi> Again, <hi>John</hi> 12.36. <hi>While ye have the Light, believe in the Light, that ye may become Children of Light.</hi> And ſaith <hi>David,</hi> Pſalm 36.9. <hi>With thee is the Fountain of Life; in thy Light ſhall we ſee Light.</hi> And <hi>Pſalm</hi> 43.3. <hi>O ſend out thy Light and thy Truth; let them lead me, let them bring me to thy holy Hill,</hi> &amp;c. Now I tell Author, God will ſcatter the Proud in the Imagination of their Hearts; and take the Wiſe in their own Craftineſs. No wonder he conceals his Name, who ſhews ſuch contempt to the Appearance of Chriſt in Man.</p>
+            <p>Dang. Impoſt. <hi>When he affirmed, That Chriſt was in him; he did not mean, that the Man</hi> Jeſus <hi>of</hi> Nazareth <hi>was in him</hi>— <hi>But the Word and the Light</hi> (John 1.1, 7, 13.) <hi>which was in</hi> Jeſus <hi>of</hi> Nazareth, <hi>was alſo (though not in the ſame meaſure) in</hi> G. F.</p>
+            <p>
+               <hi>Anſw. G. F.</hi> did not hold two Chriſts, but <hi>One Lord Jeſus Chriſt,</hi> as 1 Cor. 8.6. Obſerve the Evangeliſt's Teſtimony (<hi>John</hi> 1.14, 15.) <hi>We beheld his Glory, the Glory as of the Only Begotten of the Father, full of Grace and Truth. And of his fulneſs have all we received, and Grace for Grace. In him was Life, and the Life was the Light of Men,</hi> John 1.4. Now if true Believers do re<g ref="char:EOLhyphen"/>ceive of Chriſt's Fulneſs, and of his Life, then they receive a meaſure of the ſame; and by vertue thereof, they are grafted into him, the Heavenly Vine; and by abiding in him, are made fruitful towards God, ſee <hi>John</hi> 17.</p>
+            <p>Dang. Impoſt. <hi>But for</hi> G. F. <hi>to affirm, That Chriſt was in him, is an exceſs of Error and Profaneneſs, ſuch as no ſober Chriſtian, who knows, that by this his Bleſſed Saviour is diſtinguiſhed from, and exalted above the higheſt Angels can endure to hear, without the utmoſt Abhorrence and Abomination.</hi>
+            </p>
+            <p>
+               <hi>Anſw. G. F.</hi> and the reſt of the People called <hi>Quakers,</hi> ne<g ref="char:EOLhyphen"/>ver owned the Appearance of Chriſt in them any otherwiſe than as the holy Scriptures bear witneſs; and I conclude this Man's charging us, as Erroneous herein, proceeds not only from
+<pb n="6" facs="tcp:95778:4"/>the Prejudice he hath againſt us, but alſo ſhews him to be carnal and ignorant of the Myſtery of the Goſpel; ſeeing he charges this as <hi>Exceſs of Error and Profaneneſs;</hi> his Charge reflects upon <hi>Chriſt,</hi> and his holy <hi>Apoſtles,</hi> who aſſert the Spiritual Appear<g ref="char:EOLhyphen"/>ance or Indwelling of <hi>Chriſt</hi> in Men, and returns upon himſelf, and proves him in Exceſs of Error and Profaneneſs; and for proof, ſee Chriſt's own words, <hi>John</hi> 14.20. &amp; 17.23. <hi>At that day ye ſhall know that I am in my Father, and you in me, and I in you.</hi> — <hi>I in them, and they in me, that the World may know that thou haſt ſent me,</hi> &amp;c. And <hi>Col.</hi> 1.27. <hi>Chriſt in you the hope of Glory.</hi> To which, for Brevity ſake, I ſhall only add 2 <hi>Cor.</hi> 13.5. and <hi>Rom.</hi> 8.9, 10. Now we do not hold the Spiritual Appearance of Chriſt in oppoſition to his being Exalted in Glory, at God's Right Hand, but we do believe it according to Holy Scripture-Teſtimony; and that he is our Mediator, appearing in the Preſence of God for us. If this Author has charged us through Ignorance, his Crime is the leſs; but if through Prejudice, let him conſider whoſe Teſtimonies theſe are, above recited, and ſee if he can clear himſelf from Blaſphemy; who hath not only charged the <hi>Quakers,</hi> but <hi>Chriſt</hi> and his <hi>Apoſtles;</hi> for we aſſert no other thing but what they have done.</p>
+            <p>Dang. Impoſt. <hi>This is the Fundamental Error, and Prodigious Deluſion, that the Author of</hi> Quakeriſm <hi>entertain'd and ſet up in the World, and this his Followers defend and maintain to this Day.</hi>
+            </p>
+            <p>
+               <hi>Anſw.</hi> I have before ſhewn Chriſt's own Teſtimony, and the Apoſtles, concerning the Spiritual Indwelling of Chriſt: Sure<g ref="char:EOLhyphen"/>ly ſome Eminent Judgment has befallen this Author, and he is ſtrongly Deluded and Blind, in calling a Fundamental Goſpel-Truth <hi>Error and Prodigious Deluſion. Paul</hi> ſaith, <hi>Rom.</hi> 8.9. <hi>Now if any Man have not the Spirit of Chriſt, he is none of his.</hi> Can a Man have the Spirit of Chriſt, and yet not have Chriſt? When the Apoſtle ſays, 2 <hi>Cor.</hi> 3.17. <hi>The Lord is that Spirit; and where the Spirit of the Lord is, there is liberty.</hi>
+            </p>
+            <p>Thus having prov'd from Scripture, <hi>That</hi> to be a precious Fundamental-Truth (which he calls <hi>Error</hi>) and ſuch a Truth as our Souls Everlaſting Well-being depends upon: I ſhall paſs by the reſt of his <hi>Firſt Part,</hi> without farther notice: For the Foundation proving falſe, all that is built upon it falls. There<g ref="char:EOLhyphen"/>fore I come to his <hi>Second Part:</hi> To conſider his Charges, that (he ſaith) <hi>are Pernicious to Humane Society,</hi>
+            </p>
+            <p>
+               <pb n="7" facs="tcp:95778:4"/>And Firſt, <hi>The Quakers deny the Lawfulneſs of an Oath, even in Courts of Judicature.</hi>
+            </p>
+            <p>
+               <hi>Anſw.</hi> The Scripture-Teſtimonies, that ſpeak ſo plainly in behalf of our Chriſtian Principle herein (<hi>Mat.</hi> 5.34 to 37. <hi>James</hi> 5.12.) concerning Swearing, being very obvious, it is very ſtrange, that this Author ſhou'd thus charge the Doctrine of <hi>Chriſt,</hi> and the Apoſtle <hi>James,</hi> as being Pernicious to <hi>Hu<g ref="char:EOLhyphen"/>mane Society;</hi> but ſurely the Beam is in his own Eye, and he in that ſpirit that is pernicious to <hi>Humane Society.</hi>
+            </p>
+            <p>His Second Pernicious Doctrine is, <hi>Our not putting off our Hats td Superiours.</hi>
+            </p>
+            <p>
+               <hi>Anſw.</hi> We are perſwaded our Superiours have more Chari<g ref="char:EOLhyphen"/>table Thoughts of us: True Honour and Reſpect doth not conſiſt <hi>in putting off our Hats.</hi> We honour all Men in the Lord, and Magiſtrates in their Station, believing Magiſtracy is an Ordinance of God; and we are ready to obey Magiſtrates in <hi>every good Work,</hi> though we cannot conform to the vain Cuſtoms of the World: Remember the Caution of the Apoſtle, <hi>Be not Conformed to this World, but be ye Transformed by the Renewing of your Minds,</hi> Rom. 12.2.</p>
+            <p>His Third Pernicious Doctrine is, <hi>Our refuſing to Fight:</hi> This he renders with ſome Agravation.</p>
+            <p>
+               <hi>Anſw.</hi> We are concerned to Fight under <hi>Chriſt's Banner;</hi> not with <hi>Men,</hi> but with <hi>Sin,</hi> and the <hi>Devil,</hi> the Author of Sin; and do believe, if People were more concerned herein, they might come to know that Scripture fulfilled, namely, <hi>When a Man's ways pleaſe the Lord, he will make his Enemies to be at peace with him,</hi> Prov. 16.7.</p>
+            <p>There are many Glorious Promiſes in Scripture, concerning the Ceſſation of War, we believe it will be gradually fulfilled; and the time is come and coming, when the <hi>Swords ſhall be beaten into Plow-ſhares, and the Spears into Pruning-hooks; and Na<g ref="char:EOLhyphen"/>tion ſhall not lift up Sword, againſt Nation, nor learn War any more,</hi> as in <hi>Iſa.</hi> 23. <hi>Micah</hi> 4.3. The Lord haſten this time, and help us to Love our Enemies, and to overcome Evil with that which is Good. Now if Men live in Love, ſuppreſs Vice, and pro<g ref="char:EOLhyphen"/>mote Vertue, ſurely this is the only Preſervative to Humane Society, becauſe <hi>the Angel of the Lord encamps about them that fear him, and delivereth them,</hi> Pſalm 34.7.</p>
+            <pb n="6" facs="tcp:95778:5"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="7" facs="tcp:95778:5"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="8" facs="tcp:95778:6"/>
+            <p>Now I come to thoſe Doctrines he charges as <hi>Pernicious to Chriſtian Religion,</hi> which he ſaith are: Firſt, <hi>The denying the uſe of the Two Sacraments,</hi> Baptiſm <hi>and the</hi> Lord's Supper, (and adds) <hi>The Son of God judged it expedient to Eſtabliſh theſe ſenſible Rites for Religious Purpoſes.</hi> —</p>
+            <p>
+               <hi>Anſw.</hi> That which is Pernicious to the Chriſtian Religion, is, the want of <hi>Charity</hi> among Men; and their ſtraining things far<g ref="char:EOLhyphen"/>ther than they are expreſſed in the Holy Scriptures, and then calling them <hi>Chriſt's Ordinances.</hi> This Author had done ſome<g ref="char:EOLhyphen"/>thing to his purpoſe if he had proved by plain Scripture where Chriſt did eſtabliſh theſe ſenſible <hi>Rites for Religious Purpoſes,</hi> as he would have that which he calls the Two Sacraments, <hi>Bap<g ref="char:EOLhyphen"/>tiſm</hi> and the <hi>Lord's Supper,</hi> to be; where did ever our Lord Jeſus ordain, That all People muſt be Dipped or Sprinkled with a little Water? And where did Chriſt ordain the uſe of the outward <hi>Bread</hi> and the <hi>Cup,</hi> as his peculiar Ordinance for his Church to continue in the Practice of to the end of the Word? If Jeſus Chriſt hath ordained theſe things, ſhew us them in his own words, in the Holy Scripture; for it is not Mens Arguments that makes Chriſt's Ordinances, but the very Words of him that Ordaineth them. We do believe, that when Chriſt is injoyed in Spirit, he doth in a more excellent manner diſcover him<g ref="char:EOLhyphen"/>ſelf to the Soul, than any outward Remembrancer of him can do: We do not look upon theſe outward Signs and Shadows to be agreeable to the Goſpel-Diſpenſation; yet where any are truly Conſciencious, being perſwaded it is their Duty to Practice theſe outward things, we are tender towards ſuch, and deſire they may come to ſee thorough all Signs and Sha<g ref="char:EOLhyphen"/>dows, unto Chriſt, who is the Subſtance; and feed upon him, who is the Living <hi>Bread that cometh down from Heaven, that a Man may eat thereof, and not die,</hi> John 6.50 to 58.</p>
+            <p>His Second, as <hi>Pernicious to Chriſtian Religion,</hi> is, <hi>The denying and vilfying a Learned Miniſtry, as unneceſſary and unlawful.</hi>
+            </p>
+            <p>
+               <hi>Anſw.</hi> We own, and highly eſteem, <hi>Goſpel-Miniſtry:</hi> But that which is <hi>Pernicious to Chriſtian Religion,</hi> is the exalting <hi>Humane Learning,</hi> in Oppoſition to the Holy Spirit's Teaching; by this hath great Confuſion crept in among Religious Societies; which might have been prevented, had that Learning, which is truly Chriſtian, been minded, as is ſet forth in 1 <hi>Cor.</hi> 2. and in 2 <hi>Cor.</hi> 3.4, 5, 6. Here is true <hi>Chriſtian Learning,</hi> by the Spirit of God, by
+<pb n="9" facs="tcp:95778:6"/>which the Mind of God is made known; and they who are Taught hereby (being call'd of God) ſpeak with Authority, having <hi>received Ability from God,</hi> as ſaith the Apoſtle, 1 <hi>Pet.</hi> 4.10, 11. Of theſe things the Scriptures teſtifie plentifully; ſhew<g ref="char:EOLhyphen"/>ing the Qualification of Miniſters. And as concerning Humane Learning, we eſteem it good in its place; but that's not the Key that opens the Myſteries of the Kingdom of God: But the Spirit of God is that Key, and is therefore to be prefer'd be<g ref="char:EOLhyphen"/>fore all the Natural Learning of Men: And this was <hi>G. F</hi>'s judgment concerning it, who was no Vilifier of Chriſt's Mini<g ref="char:EOLhyphen"/>ſters, but reprov'd ſuch as ran, <hi>and God did not ſend them,</hi> Jer. 23.21. <hi>And through Covetouſneſs, with ſeigned words, make Merchan<g ref="char:EOLhyphen"/>dize of poor Souls,</hi> 2 <hi>Pet.</hi> 2.3. Such he reproved, and ſo did the Servants of God in former Ages, as the Holy Scripture wit<g ref="char:EOLhyphen"/>neſſeth. To this I may add, this Author's Complaint of the <hi>Quakers non-payment of Tithes:</hi> And whatever are his Thoughts, if the old Proverb be true, <hi>viz. Give the Loſer leave to ſpeak;</hi> the <hi>Quakers</hi> have moſt cauſe to complain of the <hi>Prieſts</hi> Severity, Spoiling and Havock, (by <hi>Sequeſtration,</hi> and otherwiſe) yet if this Author had rightly obſerved that Scripture he cites, <hi>Luke</hi> 10.7. he had not only ſeen what was the Maintenance of <hi>Chriſt</hi>'s Miniſters, but who, and of whom, they were to receive it; for they were firſt to be received in their Office, miniſtring Spiri<g ref="char:EOLhyphen"/>tuals; and then, thoſe that received them, with theſe they were to Eat and Drink ſuch things as they gave. Here's <hi>Chriſt</hi>'s Allowance obſerved by his Miniſters; and they that go from <hi>Chriſt's Command</hi> [in their ſo doing] are like <hi>Hophni</hi> and <hi>Phi<g ref="char:EOLhyphen"/>nehas,</hi> the Sons of <hi>Eli,</hi> who were not content with God's al<g ref="char:EOLhyphen"/>lowance under the Law, and therefore offered Violence to the poor <hi>Iſraclites,</hi> telling them, <hi>If they wou'd not give them, they wou'd take it by force:</hi> This their <hi>Sin was very great before the Lord;</hi> and he puniſhed them. <hi>For God will not be mocked, ſuch as ho<g ref="char:EOLhyphen"/>nour him, them he'll honour; and ſuch as deſpiſe him, ſhall be lightly eſteemed,</hi> 1 Sam. 2.15, 30.</p>
+            <p>His Third, as <hi>Pernicious to Chriſtian Religion,</hi> is, (as he ſaith) <hi>Our denying the Sufficiency of the Holy Scriptures; and pretending, that no Man can underſtand them, unleſs he hath the ſame Spirit by which the Doctrine of Holy Scriptures were given forth; nor will they (that I can find) allow any one to be in the Spirit, which is neceſſary to the underſtanding of the Scriptures, who is not a</hi> Quaker.</p>
+            <p>
+               <pb n="10" facs="tcp:95778:7"/>
+               <hi>Anſw.</hi> We own the Holy Scriptures, according as they teſti<g ref="char:EOLhyphen"/>fie or themſelves, 2 <hi>Tim.</hi> 3.14, 15, 16, 17. And alſo ſay, The true Knowledge of them, and Faith in Chriſt Jeſus, cannot be truly known, but by the inward Manifeſtation, Work and Operation of the Holy Spirit: And this Spirit we do not limit to our ſelves; we ſay, It ſtrives with all Men in a Day of Viſitation, which the Ford gives, which we deſire they may mind, ſo as to know a being ſealed by it, and may have the earneſt of it in their Hearts. And now I appeal to all Tender-hearted Chriſtians, Think ye, that it is unreaſonable for us to expect the Gift and Guidance of the Spirit of Truth, when the Scriptures them<g ref="char:EOLhyphen"/>ſelves plainly and plentifully declare thereof; and alſo ſaith, That <hi>he that hath not the Spirit of Chriſt, is none of his?</hi>
+            </p>
+            <p>And now for his Trifling Obſervations, I ſhall paſs them by, with theſe brief Anſwers:</p>
+            <list>
+               <item>
+                  <hi>Firſt,</hi> As to our ſaying <hi>Thou to a ſingle Perſon;</hi> Man ought not to deſpiſe that form of Speech he uſes to the great God; for if he doth, God will behold his Pride, and abaſe him.</item>
+               <item>
+                  <hi>Secondly,</hi> He abuſes us about the words <hi>Yea</hi> and <hi>Nay,</hi> as tho' we uſed them only, and refuſed <hi>Yes</hi> or <hi>No:</hi> Our frequent Con<g ref="char:EOLhyphen"/>verſation among Men reproves this Falſhood.</item>
+               <item>
+                  <hi>Thirdly,</hi> As concerning our <hi>Marriages</hi> and <hi>Burials:</hi> As we Conſcienciouſly Diſſent, ſo we have Scripture to vindicate our Practice therein.</item>
+               <item>
+                  <hi>Fourthly,</hi> He abuſes us, as tho' we allowed amongſt us <hi>Gaudy</hi> and <hi>Coſtly Attire:</hi> Which we teſtifie againſt, and more eſpecially to thoſe that come amongſt us. And his ſtuff about the <hi>Green-Apron,</hi> I paſs by as a <hi>Fig-leaf-ſtory.</hi>
+               </item>
+            </list>
+            <p>Thus having made ſome brief Obſervations upon the Sub<g ref="char:EOLhyphen"/>ſtance of his Paper, contain'd in his <hi>Firſt</hi> and <hi>Second</hi> Part, I ſhall mention a few Inſtances out of <hi>G. F</hi>'s <hi>Journal,</hi> in anſwer to his <hi>Third Part;</hi> and deſire the Impartial Reader to judge, whether they ſavour of <hi>Confuſed Madneſs,</hi> as this <hi>Libeller</hi> inſinuates: See <hi>Journal</hi> p. 4. his Confeſſion or the Excellent Benefits we receive through Chriſt's Sufferings and Death, <hi>viz.</hi>
+               <q>All that time, the Sins of all Mankind was upon him [Chriſt] and their Iniquities and Tranſgreſſions, with which he was wounded, which he was to bear, and to be an Offering for them, as he was Man; but died not as he was God; and ſo in that he died for all Men, and taſted Death for every Man, He was an Offering for the Sins of the whole World.</q>
+            </p>
+            <pb n="11" facs="tcp:95778:7"/>
+            <p n="2">
+               <hi>2dly.</hi> Concerning how he <hi>[G. F.]</hi> was relieved in deep Af<g ref="char:EOLhyphen"/>flictions; ſee <hi>Jour.</hi> p. 8. <q>And when all my hopes in them (the Prieſts, and other Profeſſors) and in all Men, was gone, ſo that I had nothing outwardly to help me, nor could tell what to do; Then, O then, I heard a Voice which ſaid, <hi>There is one, even Jeſus Chriſt, that can ſpeak to thy Condition:</hi> And when I heard it, my Heart did leap for Joy; then the Lord did let me ſee why there was none upon the Earth that could ſpeak to my Condition, namely, That I might give him all the Glory, <hi>&amp;c.</hi>
+               </q>
+            </p>
+            <p n="3">
+               <hi>3dly.</hi> Hear his Confeſſion to the great Love and Mercy of God, in Chriſt Jeſus, <hi>Jour,</hi> p, 9, 10. <hi>viz.</hi>
+               <q>I was taken up in the Love of God, ſo that I could not but admire the great<g ref="char:EOLhyphen"/>neſs of his Love: And whilſt I was in that Condition, it was open'd unto me, by the Eternal Light and Power, and I therein clearly ſaw, that all was done, and to be done, by Chriſt; how he conquers and deſtroys this Tempter, the Devil, and all his Works, and is a-top of him; and that all theſe Troubles and Temptations were good for me, for the trial of my Faith, which Chriſt had given me.</q>
+            </p>
+            <p>Judge, <hi>Impartial Reader,</hi> of theſe Inſtances, whether they do not favour apparently of the Work of God's Gracer <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>
+               <g ref="char:punc">▪</g> And when thou haſt opportunity read over this <hi>Journal;</hi> but do not read as this Libeller has done; for, doubtleſs, he read with a Prejudical Deſign, or elſe he had not thus abuſed the deceaſed Author.</p>
+            <p>To conclude, I find the Two Principal Reaſons, he renders to prove <hi>G. F.</hi> an <hi>Impoſtor,</hi> are, His <hi>Youth,</hi> and want of <hi>Natural Learning.</hi> My brief anſwer is, as in 1 <hi>Cor.</hi> 1.20. <hi>Where is the Wiſe? Where is the Scribe? Where is the Diſputer of this World?</hi> And again, from the 26th verſe to the end: <hi>For ye ſee your Calling, Brethren; how that not many Wiſe Men after the Fleſh, not many Mighty, not many Noble, are called; but God hath choſen the Fooliſh things of the World, to confound the Wiſe; and God hath choſen the Weak things of the World, to confound the things that are Mighty; and Baſe things of the World, and things which are Deſpiſed, hath God choſen; yea, and things which are not, to bring to nothing things which are; what no Fleſh ſhould glory in his preſence.</hi>
+            </p>
+            <p>
+               <pb n="12" facs="tcp:95778:8" rendition="simple:additions"/>Upon the Fourth Part, he pretends a Reherſal of (1) <hi>Voices,</hi> (2) <hi>Viſions,</hi> (3) <hi>Propheſies,</hi> (4) <hi>Miracles,</hi> (5) <hi>Diſcerning of Spirits,</hi> (6) <hi>The knowledge of Nature, and the whole Creation,</hi> (7) <hi>Being in the ſhine State that</hi> Adam <hi>was in before the fall; which</hi> (ſaid he) <hi>is more than ever any Prophet or Apoſtle attained to.</hi>
+            </p>
+            <p>
+               <hi>Anſw.</hi> This Author cites not one Page for this; which, if he had, we might have ſeen what <hi>G. F.</hi> had ſaid concerning what he thus repeats; and until he deals more plainly in his Citations, I ſhall only ſay, whatever <hi>G. F.</hi> did know of any of the above-mentioned Attainments, he aſcribed the Power and Glory to God only; by whoſe Grace he was what he was.</p>
+            <p>He charges <hi>G. F.</hi> with <hi>Inſolent Provocations, and that thereby he brought Sufferings upon himſelf.</hi>
+            </p>
+            <p>
+               <hi>Anſw.</hi> This but like his frequent Abuſes, which he offers to this Servant of Chriſt.</p>
+            <p>He tells us, <hi>He wou'd Expoſtulate with us, out of Compaſſion to our Souls.</hi>
+            </p>
+            <p>
+               <hi>Anſw.</hi> He might ſpeak more plain, and ſay, Void of Compaſ<g ref="char:EOLhyphen"/>ſion; for his pretences are much like what Hiſtory ſays of the <hi>Tears of the Crooodile.</hi> He begins his Paper with the ill Name of <hi>Impoſture,</hi> and ends it with a worſe; and with no leſs than a Ch<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rge of Blaſphemy: <hi>But they are drawn from falſe Premiſes.</hi> Which <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ings me now to conclude, with the words of Chriſt, <hi>Mat.</hi> 5.11, 12. <hi>Bleſſe<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>re you, when Men ſhall revile you, and per<g ref="char:EOLhyphen"/>ſecute you, and ſhall ſay all manner of Evil againſt you falſely for my Name ſake: Rejoyce and be exceeding glad, for great is your Reward in Heaven. For ſo perſecuted they the Prophets which were before you.</hi> I humbly beſeech God to behold the Threatnings of our Ad<g ref="char:EOLhyphen"/>verſaries; and where any do it ignorantly, to open their Un<g ref="char:EOLhyphen"/>derſtandings, and let them ſee what they are doing, that they may deſiſt; and where Envy and Malice prevails in any, and prompts them to do us Evil, the Lord behold it, and fruſtrate them in their Evil Deſigns; and, if their Day be not oven, give them at Heat to Repent, and ſhew them Mercy; which is my deſire for the worſt of our Enemies, having Love and Good<g ref="char:EOLhyphen"/>will in my Heart for all Men.</p>
+            <closer>
+               <signed>Richard Aſhby.</signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
